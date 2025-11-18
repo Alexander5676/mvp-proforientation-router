@@ -2,6 +2,7 @@
   "name": "mvp-proforientation-router",
   "version": "0.2.0",
   "private": true,
+  "tyre": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -21,3 +22,4 @@
     "@vitejs/plugin-react": "^4.2.0"
   }
 }
+
